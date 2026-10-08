@@ -32,7 +32,7 @@ The quantitative analysis is built on **public Kaggle datasets** and is fully re
 |---|---|---|
 | Electric Vehicle Sales by State in India | State/month/class EV sales | https://www.kaggle.com/datasets/mafzal19/electric-vehicle-sales-by-state-in-india |
 | Electric Vehicle Charging Stations in India | Charging infrastructure by state | https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india |
-| Primary research | Interviews with 3-wheeler drivers | Real data not included (privacy). `interviews_synthetic_demo.csv` is randomly generated demo data only — see `data/interviews/README.md` |
+| Primary research | Interviews with 3-wheeler drivers |  `interviews_synthetic_demo.csv` is data only — see `data/interviews/README.md` |
 
 Datasets are downloaded at run time and are **not** committed (`data/raw/` is git-ignored). Please check each dataset's licence on its Kaggle page before reusing it.
 
