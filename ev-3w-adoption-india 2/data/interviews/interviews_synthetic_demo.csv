@@ -1,12 +1,12 @@
 driver_id,city,vehicle_type,ownership,daily_km,income_band,currently_ev,barrier_upfront_cost,barrier_financing_access,barrier_charging_access,barrier_range_battery_life,barrier_resale_value,barrier_downtime_repair,barrier_awareness_trust,notes
-D01,Delhi,passenger auto (CNG),renter,112,<10k,yes,0,1,0,1,0,0,1,charges at depot only
+D01,Gorakhpur,passenger auto (CNG),renter,112,<10k,yes,0,1,0,1,0,0,1,charges at depot only
 D02,Bengaluru,cargo 3W,renter,97,10-15k,no,1,0,0,1,0,0,0,long waiting time at charger
-D03,Pune,passenger auto (CNG),owner,102,15-25k,no,1,0,1,1,1,1,0,
-D04,Patna,cargo 3W,owner,111,<10k,no,1,1,0,0,0,0,0,
+D03,Varanasi,passenger auto (CNG),owner,102,15-25k,no,1,0,1,1,1,1,0,
+D04,Gorakhpur,cargo 3W,owner,111,<10k,no,1,1,0,0,0,0,0,
 D05,Patna,passenger auto (CNG),owner,59,<10k,no,1,0,1,1,1,0,0,unsure about resale
-D06,Bengaluru,e-rickshaw,owner,87,10-15k,yes,0,1,0,1,1,0,0,garage far from home
+D06,Varanasi,e-rickshaw,owner,87,10-15k,yes,0,1,0,1,1,0,0,garage far from home
 D07,Delhi,passenger auto (CNG),owner,83,10-15k,no,0,0,1,1,0,1,0,interested if financing is easy
-D08,Pune,e-rickshaw,owner,79,15-25k,yes,0,1,0,0,0,1,0,worried about battery replacement cost
+D08,Lucknow,e-rickshaw,owner,79,15-25k,yes,0,1,0,0,0,1,0,worried about battery replacement cost
 D09,Lucknow,cargo 3W,owner,88,10-15k,yes,1,0,0,0,1,0,1,worried about battery replacement cost
 D10,Delhi,passenger auto (CNG),renter,132,15-25k,no,0,1,0,0,0,1,1,worried about battery replacement cost
 D11,Jaipur,passenger auto (petrol),owner,73,15-25k,no,1,1,1,0,0,0,0,
